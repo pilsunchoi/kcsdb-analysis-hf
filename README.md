@@ -45,7 +45,7 @@ scripts/
 notebooks/           재현 노트북
 paper/
   draft.md           초안(발전 대상)
-  설계.md            논문 설계·구성
+  design.md          논문 설계·구성
 data/                DB·중간산출(.gitignore 처리, 저장소에 안 올라감)
 ```
 
